@@ -1,0 +1,2 @@
+# CanDetect
+A complete report of ridges, arch, whorls present on the hand would be analysed and studied through Computer Vision and then these counts will give us Tri Radii patterns present on the palm of the hand. These patterns can help us to find ATD angle in the hand through some mathematics involved, all together it will give the confined risk analysis and dietary control report of the patient.
